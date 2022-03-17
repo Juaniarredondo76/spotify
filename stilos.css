@@ -6,10 +6,12 @@
     background: #f6f4f4;
 }
 .fondobanner{
-    background-image: url("imagenes/bannerNotasMusicales.gif");
+    background-image: url("imagenes/lado.gif");
     height: 600px;
     background-attachment: fixed;
 } 
     .fondoForm{
-        background-image: url("img/fondocolores.jpg");
+        background-image: url("imagenes/caidas.gif");
+        height: 600px;
+        background-attachment: fixed;
 }
