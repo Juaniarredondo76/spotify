@@ -4,7 +4,7 @@ import {URI,parametrosPeticion} from './constantes.js'
 //DE CUALQUIER SERVIDOR CON JS PURO
 async function consumirAPI(){
     let respuesta= await fetch(URI, parametrosPeticion)
-    let cancion=respuesta.json()
-    return(cancion)
+    let canciones=respuesta.json()
+    return (canciones)
 }
 export let resultado=await consumirAPI()
