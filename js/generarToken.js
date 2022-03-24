@@ -1,0 +1,6 @@
+/*
+let TOKEN ="Bearer BQBlWOVtatptO4BoszGq4e4vXe1QfZDirsGq93wdP8NTEffeQnJRsvGWtPwIoktoM9iPNZYKVCsbvbktyQMjZPquHnbn1vxm8Ml3R_uZr8Ts3TDwwu3IJrdKMVkMSvud1_koD5Roq2f9kQPQsKUzMenHfvQ5bTzJmgo"
+*/
+
+//exportando un token
+export let TOKEN ="Bearer BQBCJT9QAH6xLm8wZ83SJ1cLcON4rDZJTwf1hVQs1RtH9UOKVVi6G6xJiB8P-LvynkWvLtKA2TfqPBSu3-PUkdAv-TApj3dNPuNZ2rl5g6eqxJXfUqxk3B05WUwY7dvaChBWph4kQcoANRZamDOJe13BS4w98yaPeYc"
